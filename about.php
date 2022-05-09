@@ -92,7 +92,7 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-1.png" alt="">
                 </div>
@@ -106,7 +106,7 @@
                     </div>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio
                         similique totam aut laborum ullam sequi! In!</p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-2.png" alt="">
                 </div>
@@ -121,7 +121,7 @@
                         iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo
                         distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!
                     </p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-3.png" alt="">
                 </div>
@@ -136,7 +136,7 @@
                     </div>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio
                         dignissimos nemo?</p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-4.png" alt="">
                 </div>
@@ -150,7 +150,7 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-5.png" alt="">
                 </div>
@@ -165,7 +165,7 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
-                    <h3>john deo</h3>
+                    <h3>Salsabil B</h3>
                     <span>traveler</span>
                     <img src="images/pic-6.png" alt="">
                 </div>
@@ -199,10 +199,10 @@
 
             <div class="box">
                 <h3>contact info</h3>
-                <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-                <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-                <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-                <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+                <a href="#"> <i class="fas fa-phone"></i> +333-33-33-33-33 </a>
+                <a href="#"> <i class="fas fa-phone"></i> +333-33-33-33-33 </a>
+                <a href="#"> <i class="fas fa-envelope"></i> salsabilb@gmail.com </a>
+                <a href="#"> <i class="fas fa-map"></i> Vannes, France - BP </a>
             </div>
 
             <div class="box">
@@ -215,7 +215,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+        <div class="credit"> created by <span>S.B</span></div>
 
     </section>
     <!-- footer section ends -->

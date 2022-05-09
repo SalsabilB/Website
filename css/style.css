@@ -598,20 +598,6 @@ section{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries  */
 
 @media (max-width:1200px){
@@ -635,7 +621,6 @@ section{
    .home .slide .content h3{
       font-size: 10vw;
    }
-
 }
 
 @media (max-width:768px){
@@ -672,7 +657,6 @@ section{
       margin:2rem;
       text-align: center;
    }
-
 }
 
 @media (max-width:450px){
@@ -684,5 +668,4 @@ section{
    .heading-title{
       font-size: 3.5rem;
    }
-
 }
